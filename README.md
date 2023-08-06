@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm *Péricles Bonilla* and I'm a Data Science student and enthusiast 
+# I'm a Python and Data Analysis Professor.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peri03bt&hide=contribs,prs&show=reviews&show_icons=true&theme=chartreuse-dark)
